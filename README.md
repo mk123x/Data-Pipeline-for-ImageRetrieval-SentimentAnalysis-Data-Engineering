@@ -4,6 +4,7 @@ Data Engineering project on unstructured image and text data pipeline for conten
 This repository contains my coursework for the Data Engineering module. The project demonstrates data engineering techniques by building two unstructured databases using Python: one for a content-based image retrieval system and another for sentiment analysis.
 
 Contents include:
+
 -A full report detailing data sources, preprocessing steps, feature extraction, metadata management, and NoSQL database usage.
 
 -A Python notebook for preprocessing and storing both image and text data.
