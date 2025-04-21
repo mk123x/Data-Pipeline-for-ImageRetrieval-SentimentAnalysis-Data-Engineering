@@ -1,5 +1,0 @@
-Review:
-Genuinely advise people to think twice about relying on anything running off Apple ID. As a "security measure," it takes three days to reset a password. My partner had her phone stolen and couldn't remember her password. We went to reset it, assuming it would be immediate like Google or other services, only to find out it would take three days. This means three days without access to Find My iPhone, three days of not knowing if the phone was stolen or lost, and three days of no access to other Apple devices. The customer service representative seemed to think this was a positive feature, boasting that it could take months for some users to recover their account. This makes a difficult situation ten times worse and upset everyone involved. It's also interesting to note that Apple doesn't have a complaint section on their support site.
-
-Date of experience: 05 August 2024
-Rating: 2 out of 5 stars
