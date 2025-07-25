@@ -13,11 +13,11 @@ Libraries used:
 
 Contents include:
 
--A full report detailing data sources, preprocessing steps, feature extraction, metadata management, and NoSQL database usage.
+- A full report detailing data sources, preprocessing steps, feature extraction, metadata management, and NoSQL database usage.
 
--A Python notebook for preprocessing and storing both image and text data.
+- A Python notebook for preprocessing and storing both image and text data.
 
--A folder containing the images and text data used in the project.
+- A folder containing the images and text data used in the project.
 
 
 This project was completed as part of my second year Data Engineering module in the BSc Data Science and Analytics course at the University of Westminster.
